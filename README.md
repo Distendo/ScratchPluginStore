@@ -1,0 +1,2 @@
+# ScratchPluginStore
+Scratch Plugins store
